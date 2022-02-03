@@ -5,3 +5,4 @@ settings.py
 enb/
 .idea/
 .vscode/
+env/
